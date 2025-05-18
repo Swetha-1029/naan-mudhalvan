@@ -20,9 +20,9 @@ def main():
     dataset_choice = st.selectbox("Choose dataset to view:", ["Dataset A", "Dataset B"])
 
     if dataset_choice == "Dataset A":
-        df = load_data_from_zip("Fake-Fake.zip", "Fake-Fake.csv")
+        df = load_data_from_zip("Fake - Fake.zip", "Fake - Fake.csv")
     else:
-        df = load_data_from_zip("True-True.zip", "True-True.csv")
+        df = load_data_from_zip("True - True.zip", "True - True.csv")
 
     st.write(f"Showing data from: {dataset_choice}")
     st.dataframe(df.head())
