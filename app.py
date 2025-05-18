@@ -27,4 +27,5 @@ st.dataframe(fake_df.head())
 
 st.subheader("True News Sample")
 st.dataframe(true_df.head())
+st.write("Files in current directory:", os.listdir('.'))
 
