@@ -32,8 +32,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 
 """## Importing Dataset"""
 
-df_fake = pd.read_csv("/content/Fake - Fake.csv")
-df_true = pd.read_csv("/content/True - True.csv")
+df_fake = pd.read_csv("Fake - Fake.csv")
+df_true = pd.read_csv("True - True.csv")
 
 df_fake.head()
 
