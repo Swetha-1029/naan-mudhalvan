@@ -2,12 +2,14 @@
 
 A Machine Learning-based web application that detects whether a news article is Real or Fake using Natural Language Processing (NLP) techniques.
 
-📌 Project Overview
+📌 Project Overview 
+
 Fake news has become a major issue in the digital world. This project builds an intelligent system that analyzes news content and predicts its authenticity using machine learning algorithms.
 The model is trained on labeled news datasets and classifies input text as:
 
 ✅ Real News
 ❌ Fake News
+
 🚀 Features
 
 Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
@@ -21,7 +23,6 @@ Model evaluation using Precision, Recall, and F1-score
 Programming Language: Python
 Libraries: Scikit-learn ,Pandas,NumPy,Matplotlib / Seaborn
 Frontend: HTML, CSS
-
 Framework: Flask / Streamlit
 
 🧠 Model Workflow
