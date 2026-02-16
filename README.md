@@ -46,7 +46,7 @@ Frontend (if applicable): HTML, CSS
 
 Framework (if used): Flask / Streamlit
 
-Model Workflow
+🧠Model Workflow
 
 Data Cleaning
 
