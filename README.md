@@ -1,6 +1,5 @@
-:
-
 📰 Fake News Detection System
+
 A Machine Learning-based web application that detects whether a news article is Real or Fake using Natural Language Processing (NLP) techniques.
 
 📌 Project Overview
